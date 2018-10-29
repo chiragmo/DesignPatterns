@@ -1,5 +1,6 @@
 What the project achieves ?
-Calucate sum of the prime number from a list of input file using object pool pattern in multi-threading environment.
+Calculate sum of the prime number from a list of input file using object pool pattern in multi-threading environment.
+Language: Java 5 and above
 
 -----------------------------------------------------------------------
 -----------------------------------------------------------------------
